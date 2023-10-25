@@ -11,4 +11,5 @@ Hello 👋, I am a passionate and ambitious programmer who recently completed th
 </div>
 <p>Featured Projects</p>
 - Movie web app <a href="https://github.com/Eran533/movie_web_app">Link</a>: Description of project 1.
+<img src="Screenshot 2023-10-25 193640.png" width="40" height="40"/>
   ![Project 1 Image](project1_image.png)
