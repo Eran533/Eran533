@@ -10,7 +10,7 @@ Hello 👋, I am a passionate and ambitious programmer who recently completed th
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" width="40" height="40"/>
 </div>
 <p>Featured Projects</p>
-- Movie_web_app <a href="https://github.com/Eran533/movie_web_app">: Description of project 1.
+- Movie_web_app <a href="https://github.com/Eran533/movie_web_app">Link</a>: Description of project 1.
   ![Project 1 Image](project1_image.png)
 - [Project Name 2](https://github.com/yourusername/project2): Description of project 2.
   ![Project 2 Image](project2_image.png)
