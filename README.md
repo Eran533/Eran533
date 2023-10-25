@@ -1,5 +1,5 @@
 Hello 👋, I am a passionate and ambitious programmer who recently completed the rigorous programming studies of Masterschool. My journey into coding began with a passion for problem solving and a desire to shape the digital landscape. With my new skills and desire to learn more, I am eager to embark on a rewarding career in software development.
-<p>languages and tools</p>
+<p>Technologies & Tools</p>
 <div style="display: flex; align-items: center;">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40" height="40"/>
     <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" width="40" height="40"/>
@@ -9,3 +9,8 @@ Hello 👋, I am a passionate and ambitious programmer who recently completed th
     <img src="https://cdn-icons-png.flaticon.com/512/3234/3234207.png" width="40" height="40"/>
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" width="40" height="40"/>
 </div>
+<p>Featured Projects</p>
+- [Project Name 1](https://github.com/yourusername/project1): Description of project 1.
+  ![Project 1 Image](project1_image.png)
+- [Project Name 2](https://github.com/yourusername/project2): Description of project 2.
+  ![Project 2 Image](project2_image.png)
