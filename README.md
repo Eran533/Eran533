@@ -5,4 +5,6 @@ Hello 👋, I am a passionate and ambitious programmer who recently completed th
     <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" width="40" height="40"/>
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="40" height="40"/>
     <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="40" height="40"/>
+    <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3234/3234207.png" width="40" height="40"/>
 </div>
