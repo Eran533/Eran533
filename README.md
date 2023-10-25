@@ -1,3 +1,3 @@
-![image](https://github.com/Eran533/Eran533/assets/134284521/8f779698-783b-4e36-9c8c-870df7f819f8)Hello 👋, I am a passionate and ambitious programmer who recently completed the rigorous programming studies of Masterschool. My journey into coding began with a passion for problem solving and a desire to shape the digital landscape. With my new skills and desire to learn more, I am eager to embark on a rewarding career in software development.
+Hello 👋, I am a passionate and ambitious programmer who recently completed the rigorous programming studies of Masterschool. My journey into coding began with a passion for problem solving and a desire to shape the digital landscape. With my new skills and desire to learn more, I am eager to embark on a rewarding career in software development.
 <p>languages and tools</p>
  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="c" width="40" height="40"/>
