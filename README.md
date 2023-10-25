@@ -7,4 +7,5 @@ Hello 👋, I am a passionate and ambitious programmer who recently completed th
     <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="40" height="40"/>
     <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" width="40" height="40"/>
     <img src="https://cdn-icons-png.flaticon.com/512/3234/3234207.png" width="40" height="40"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="40" height="40"/>
 </div>
