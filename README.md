@@ -14,4 +14,4 @@ Hello 👋, I am a passionate and ambitious programmer who recently completed th
 <p>A movie app where you can search for any movie to get details about it, user reviews and reviews of the app. In addition, the app has CRUD for each movie, a trivia game about movies, registration and login, editing a profile and other very cool options.</p>
 <img src="Screenshot 2023-10-25 193640.png" width="320" height="280"/>
 <p>Stats</p>
-![Eran533 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eran533&show_icons=true&theme=onedark)
+![Eran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eran533&show_icons=true&theme=onedark)
