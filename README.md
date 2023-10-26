@@ -11,5 +11,5 @@ Hello 👋, I am a passionate and ambitious programmer who recently completed th
 </div>
 <p>Featured Projects</p>
 - Movie web app <a href="https://github.com/Eran533/movie_web_app">Link</a>: Description of project 1.
-<p></p>
+<p>A movie app where you can search for any movie to get details about it, user reviews and reviews of the app. In addition, the app has CRUD for each movie, a trivia game about movies, registration and login, editing a profile and other very cool options.</p>
 <img src="Screenshot 2023-10-25 193640.png" width="340" height="300"/>
