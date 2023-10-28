@@ -13,6 +13,9 @@ Hello 👋, I am a passionate and ambitious programmer who recently completed th
 - Movie web app <a href="https://github.com/Eran533/movie_web_app">Link to the project</a>
 <p>A movie app where you can search for any movie to get details about it, user reviews and reviews of the app. In addition, the app has CRUD for each movie, a trivia game about movies, registration and login, editing a profile and other very cool options.</p>
 <img src="Screenshot 2023-10-25 193640.png" width="320" height="280"/>
+- Masterblog-API <a href="https://github.com/Eran533/Masterblog-API">Link to the project</a>
+<p>A site with many CRUD options such as uploading a post, deleting, editing, sorting and searching for posts, I created an API for the posts using FLASK.</p>
+<img src="Screenshot 2023-10-25 193640.png" width="320" height="280"/>
 <p>Contact Information</p>
 <p>Phone: +972 525863960</p>
 <p>Email: eranblank533@gmail.com</p>
