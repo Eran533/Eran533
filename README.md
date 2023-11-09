@@ -21,3 +21,4 @@ Hello 👋, I am a passionate and ambitious programmer who recently completed th
 <p>Email: eranblank533@gmail.com</p>
 <p>Linkedin: <a href="https://www.linkedin.com/in/eran-blank-50a998297/">Eran Blank</a></p>
 <p>Portfolio: <a href="https://eran533.github.io/">Eran Blank</a></p>
+<p>YouTube channel: <a href="https://www.youtube.com/channel/UCAREO5nnBY60YIkyOSqrPNw">Eran Blank</a></p>
