@@ -8,6 +8,7 @@ Hello 👋, I am a passionate and ambitious programmer who recently completed th
     <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" width="40" height="40"/>
     <img src="https://cdn-icons-png.flaticon.com/512/3234/3234207.png" width="40" height="40"/>
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" width="40" height="40"/>
 </div>
 <p>Featured Projects</p>
 - Movie web app <a href="https://github.com/Eran533/movie_web_app">Link to the project</a>
