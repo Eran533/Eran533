@@ -11,12 +11,12 @@ Hello 👋, I am a passionate and ambitious programmer who recently completed th
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" width="40" height="40"/>
 </div>
 <p>Featured Projects</p>
-- Movie web app <a href="https://github.com/Eran533/movie_web_app">Link to the project</a>
+- Movie web app <a href="https://github.com/Eran533/movie_web_app">Link to the project</a><a href="https://www.linkedin.com/feed/update/urn:li:activity:7128328367673634816/">Link to the project video</a>
 <p>A movie app where you can search for any movie to get details about it, user reviews and reviews of the app. In addition, the app has CRUD for each movie, a trivia game about movies, registration and login, editing a profile and other very cool options.</p>
 <img src="Screenshot 2023-10-25 193640.png" width="320" height="260"/>
-- Easy Date app <a href="pic11">Link to the project</a>
+- Easy Date app <a href="https://github.com/Eran533/Easy_Date">Link to the project</a><a href="https://www.linkedin.com/feed/update/urn:li:activity:7128336498084442112/">Link to the project video</a>
 <p>A dynamic and intuitive web application with a swipe-based interface for seamless profile browsing, liking, and rejecting, real-time chat.</p>
-<img src="Screenshot 2023-10-28 191345.png" width="320" height="260"/>
+<img src="pic11.png" width="320" height="260"/>
 <p>Contact Information</p>
 <p>Phone: +972 525863960</p>
 <p>Email: eranblank533@gmail.com</p>
